@@ -1,0 +1,15 @@
+# 파이썬 실행 시 자동 생성되는 파일들
+__pycache__/
+*.py[cod]
+
+# 가상환경 (venv, conda 등)
+.venv/
+env/
+venv/
+
+# VS Code 설정
+.vscode/
+
+# 모델 파일이나 대용량 데이터 (필요한 경우만 추가)
+*.pt
+*.onnx
